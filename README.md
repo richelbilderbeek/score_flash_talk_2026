@@ -10,11 +10,21 @@ SCoRe flash talk
     has a below-average (0.36, average is 0.4)
     effect on teaching quality [Hattie, the sequel, table 9.1, p 217] 
   - I may have 20 years of experience (around 2000 hours of teaching),
-    however, years of experience has no effect on teaching quality,
-    when comparing teachers of 0-3 or 4-5 or more years of exerience.
-    There is even limit evideonce that teaching quality *declines*
-    for teachers with 4–5 years’ experience
-    `[Graham et al., 2020]`
+    however, years of experience has no effect on teaching quality
+    `[Gore et al., 2024, Graham et al., 2020]`.
+    It seems that intrinsic motivation is determines if
+    teachers get more efficient over time `[Layek and Koodamara, 2024]`
+
+<! --
+
+There is limit evideonce that teaching quality *declines*
+for teachers with 4-5 years experience, when compared to the
+other two classes: 0-3 and 6+ years of experience
+`[Graham et al., 2020]`. 
+
+RJCB: I requested the data, I predict this effect is caused by binning
+
+-->
 
 ## Tip 1: consider to follow the literature
 
@@ -54,9 +64,17 @@ The best way to grow as a teacher:
 ## References
 
 
+- `[Gore et al., 2024]` Gore, Jennifer, et al.
+  "Fresh evidence on the relationship between years of experience
+  and teaching quality."
+  The Australian educational researcher 51.2 (2024): 547-570.
 - `[Graham et al., 2020]` Graham, Linda J., et al.
-  "Do teachers’ years of experience make a difference in the quality of
+  "Do teachers' years of experience make a difference in the quality of
   teaching?." Teaching and teacher education 96 (2020): 103190.
 
 - `[Hattie, 2023]` Hattie, J. "Visible learning–the Sequel 2023."
   A synthesis of over 2100 meta-analyses (2023).
+
+- `[Layek and Koodamara, 2024]` Layek, Debika, and Navin Kumar Koodamara.
+  "Motivation, work experience, and teacher performance: A comparative study."
+  Acta psychologica 245 (2024): 104217.
