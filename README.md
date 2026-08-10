@@ -1,5 +1,7 @@
 # score_flash_talk_2026
 
+[![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
+
 SCoRe flash talk
 
 ## Intro
