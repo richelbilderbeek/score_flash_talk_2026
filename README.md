@@ -4,16 +4,26 @@ SCoRe flash talk
 
 ## Intro
 
-- Asked by Jonas
-- I may be the most experienced teacher and I feel this does not matter:
-  - I may have done a formal education, however, doing a teacher education
-    has a below-average (0.36, average is 0.4)
-    effect on teaching quality [Hattie, the sequel, table 9.1, p 217] 
-  - I may have 20 years of experience (around 2000 hours of teaching),
-    however, years of experience has no effect on teaching quality
-    `[Gore et al., 2024, Graham et al., 2020]`.
-    It seems that intrinsic motivation is determines if
-    teachers get more efficient over time `[Layek and Koodamara, 2024]`
+## What caused this talk
+
+![Any advice](any_advice.jpg)
+
+## The problem it solves
+
+Gives my three most important guidelines
+and the place to do these.
+
+## Why my answer will **not** matter
+
+I may be the most experienced teacher (20 years,
+with around 2000 hours of teaching) with formal education at the MSc level.
+
+- Doing a teacher education
+  has a below-average (0.36, average is 0.4)
+  effect on teaching quality
+  `[Hattie, the sequel, table 9.1, p 217]`
+- Years of experience has no effect on teaching quality
+  `[Gore et al., 2024, Graham et al., 2020]`.
 
 <! --
 
@@ -26,13 +36,49 @@ RJCB: I requested the data, I predict this effect is caused by binning
 
 -->
 
+## Why my answer *may* matter
+
+Intrinsic motivation is the main cause
+for teachers to get better (in this case, more efficient)
+over time `[Layek and Koodamara, 2024]`.
+
+Maybe [my teaching portfolio](https://richelbilderbeek.github.io/teaching/)
+demonstrates that I have that.
+
 ## Tip 1: consider to follow the literature
 
-- If you feel a lecture of 60 minutes is what the learners need,
-  you are welcome to follow your instinct
-- Your instinct may be wrong
-  - Humans can focus 20 minutes
-  - Humans can focus 6 minutes in online lectures
+We all have our ideas and instincts on good teaching.
+As an example, imagine a teacher that believes that
+a lecture/monologue of 60 minutes is what the learners need.
+
+Our ideas may be wrong. In this case, the idea is definitely wrong:
+
+  - Note: 'Humans can focus 20 minutes' is a commonly-held idea
+    to encourage short talking, for which there is no evidence
+    `[Wilson and Korn, 2007]`.
+
+  - Humans can focus six minutes `[Nilson and Goodson, 2021]` 
+    or 5-10 minutes `[Svinicki, 2014]` in online lectures
+
+
+I quote:
+
+<!--
+`[Nilson and Goodson, 2021]`
+- Students learn new material better and can remember it longer when they learn
+  it by engaging in an activity than when they passively watch or listen
+  to an instructor talk [8 references]
+- [...] long lectures and presentations will fail because students stop
+  viewing and listening after about six minutes.
+  This phenomenon parallels McKeachie's earlier classroom findings about
+  inattention after five to ten minutes [reference].
+  In online classes, such student inattention becomes explicitly visible
+  through electronic monitoring of activities and questions
+  from students about what has already been covered in a long presentation.
+
+-->
+
+
   - Lecturing has a negative impact on learning
   - Beginner teachers overestimate themselves
   - Most evaluation results have no correlation with course quality
@@ -59,7 +105,7 @@ The best way to grow as a teacher:
   - Reflect
   - Peer observations
 
-
+Tip: join the peer observation club
 
 ## References
 
@@ -78,3 +124,11 @@ The best way to grow as a teacher:
 - `[Layek and Koodamara, 2024]` Layek, Debika, and Navin Kumar Koodamara.
   "Motivation, work experience, and teacher performance: A comparative study."
   Acta psychologica 245 (2024): 104217.
+
+- `[Nilson and Goodson, 2021]` Nilson, Linda B., and Ludwika A. Goodson. Online teaching at its best: Merging instructional design with teaching and learning research. John Wiley & Sons, 2021.
+
+- `[Svinicki, 2014]` Svinicki, M. "McKeachie’s Teaching tips: Strategies, research, and theory for college and." Wadsworth, Cengage Learning (2014).
+
+- `[Wilson and Korn, 2007]` Wilson, Karen, and James H. Korn.
+  "Attention during lectures: Beyond ten minutes."
+  Teaching of Psychology 34.2 (2007): 85-89.
