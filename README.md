@@ -17,8 +17,9 @@ and the place to do these.
 
 ## Why my answer will **not** matter
 
-I may be the most experienced teacher (20 years,
-with around 2000 hours of teaching) with formal education at the MSc level.
+I may be the most experienced teacher
+(20 years, ~3.75 years full-time, +6000 hours)
+with formal education at the MSc level.
 
 - Doing a teacher education
   has a below-average (0.36, average is 0.4)
@@ -49,41 +50,110 @@ demonstrates that I have that.
 
 ## Tip 1: consider to follow the literature
 
+### Problem: our instincts are wrong
+
 We all have our ideas and instincts on good teaching.
+
 As an example, imagine a teacher that believes that
-a lecture/monologue of 60 minutes is what the learners need.
+a lecture/monologue of 60 minutes is what the learners need
+(he/she fondly remembers university lectures like that).
 
 Our ideas may be wrong. 
 
-In this case, the idea is definitely wrong, as big meta-analyses show
+### Why this idea is wrong
+
+In this case, the idea is definitely wrong:
+already any (?) textbook (that is not too weird) will tell you this.
+
+These textbooks may point you to a big meta-analyses that shows
 that lecturing has a **negative** impact on learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. -->.
 
-This teacher may have the idea that he/she knows better.
+### How wrong this idea is
 
-  - Beginner teachers overestimate themselves
+To get a perspective how negative this is,
+here are some other inventions and their values,
+from [the Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/):
 
-<!-- `[Fuller and Bown, 1975]` does not have the stages, but
-Pigge and Marso, 1997
+ES   |Description
+-----|----------------------------------------
+1.29 |Teacher estimates of achievement
+1.2  |Jigsaw method
+0.82 |Classroom discussion
+0.7  |Feedback
+0.6  |Direct instruction
+0.55 |Cooperative vs. individualistic learning
+0.48 |Questioning
+0.37 |Worked examples
+0.29 |Homework
+0.22 |Clickers
+0.1  |Background music
+0.04 |Humor	
+-0.05|Lack of sleep
+-0.19|Students feeling disliked
+-0.26|**Lecturing**
+-0.36|Depression
 
-It seems here is where it all started:
-- Burch, N., 1970, Conscious competence learning model: Four stages of learning theory-unconscious incompetence to unconscious competence matrix-and other theories and models for learning and change , 
+### Why this knowledge is ignored anyways
 
-This may be a fine paper:
+This teacher may have the feeling that he/she knows better.
 
-- Teachers’ professional development shaped through self-reflection using video-stimulated recall
- -->
+This is a known dynamic: early-career (i.e. less than two years of
+full-time teaching) teachers struggle
+to combine theory and practice and
+focus more on survival `[Admiraal et al., 2023]`.
 
+### Why this knowledge is ignored anyways too
 
-![Source: https://en.wikipedia.org/wiki/File:Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg](noel_burch.png)
+This teacher may have the idea that he/she knows better,
+based on some positive evaluation results.
 
+It is known that most evaluation results do not correlate with course
+quality (e.g. for 'Course satisfaction', see `[Uttl et al., 2017]`
+and 'Rate the course', see `[Clayson, 2009]`).
+Based on the literature, it means that a negative evaluation result
+may not be as bad as you will feel.
 
+### Tip
 
-  - Most evaluation results have no correlation with course quality
-- Following the literature helps align your instincts with reality
-
-Tip: teaching literature club
+Tip: visit the SciLifeLab Teaching Literature Club.
 
 ## Tip 2: consider being open on what you are
+
+### Most of us are in survival mode
+
+Most of us are novices in teaching (i.e. less than 2 years of full-time
+teaching) and will typically focus on survival
+in the initial stage of teaching
+(many studies, among many other `[Admiraal et al., 2023]`).
+
+### Most of us desire informal dialogue with colleagues
+
+Novice teachers have the biggest need for 'informal dialogue with colleagues
+and participation in an in-class coaching programme' `[Mansfield and Gu, 2019]`.
+
+![`[Mansfield and Gu, 2019]` figure 1: what novice teachers desire most. Survey 2 is a follow-up to the same teachers sent again later](mansfield_and_gu_2019_fig_1.png)
+
+### Mentorship helps to keep novices
+
+We know that mentorship helps to keep teachers:
+with mentorship 17.8% drop out,
+without mentorship this is 44.9%,
+in a period of 5 months `[Crassous et al., 2024]`.
+
+### Experiences teachers keep making mistakes
+
+Experienced teachers may feel that they suffer reputational damage
+by trying out new things, as some of these experiments
+inevitably fail, even though there is a global urge for
+innovation in education `[Moula, 2021]`.
+
+### Tip
+
+Tip: the SciLifeLab training hub or other experienced teachers can help here,
+but there is no formally organized mentorship program,
+nor (formally organized) informal teacher discussions.
+
+<!--
 
 - you are not perfect, you are only responsible for trying your best
 - If you don't care about feedback (yet),
@@ -96,19 +166,47 @@ Tip: teaching literature club
   well this succeeds', then others will help remind you to not
   lecture for more than one hour.
 
+-->
+
 ## Tip 3: consider growing as a teacher
 
-The best way to grow as a teacher:
-  - Reflect
-  - Peer observations
+### I think you want to grow
 
+I think that teaching is a complex activity
+and takes some growth beyond the initial survival
+to see this.
 
+### The most important ways to grow
 
+The two most important ways to grow as a teacher
+are reflection and peer observations `[Lowyck and Verloop, 1995]`.
 
-Tip: join the peer observation club
+### Reflection
+
+Reflection is that you write down your thoughts on how a lesson
+went. If you want to see how that may look,
+[all of my reflections are public](https://richelbilderbeek.github.io/teaching/teaching_overview/).
+
+### Peer observation
+
+Peer observations is the observation and discussion of lessons
+with a colleague **as equals**. To make this work well for you,
+choose the observer carefully, as he/she must be able to
+resist the urge to compare with his/her
+own teaching style `[Siddiqui et al., 2007]`.
+
+Observing a colleague is one of the most desired
+activity of novice teachers `[Mansfield and Gu, 2019]`.
+
+Note: everyone is always welcome to observe my lessons (although some
+may be quite dull to observe).
+
+### Tip
+
+Tip: the SciLifeLab training hub or other experienced teachers can help here,
+but there is no peer observation club anymore.
 
 ## Appendix
-
 
 ### The literature  may be incorrect.
 
@@ -150,10 +248,27 @@ Example:
 
 ## References
 
+- `[Admiraal et al., 2023]` Admiraal, Wilfried et al.,
+  "Mind the gap: Early-career teachers’ level of preparedness, professional
+  development, working conditions, and feelings of distress".
+  Social Psychology of Education 26.6 (2023): 1759-1787.
+
 - `[Boring & Ottoboni, 2016]`
   Boring, Anne, and Kellie Ottoboni.
   "Student evaluations of teaching (mostly)
   do not measure teaching effectiveness." ScienceOpen research (2016).
+
+- `[Clayson, 2009]` Clayson, Dennis E. "Student evaluations of teaching:
+  Are they related to what students learn?
+  A meta-analysis and review of the literature."
+  Journal of marketing education 31.1 (2009): 16-30.
+
+- `[Crassous et al., 2024]`
+  Crassous, Jérôme J., Baćani Mirkov, and Jaramillo Franklin.
+  "Mentorship Program Effectiveness in Early-Career Teacher Retention:
+  Comprehensive Study."
+  Global Synthesis in Education Journal 2.5 (2024): 60-77.
+
 
 - `[Fuller and Bown, 1975]` Fuller, Frances F., and Oliver H. Bown.
   "Becoming a teacher." Teachers College Record 76.6 (1975): 25-52.
@@ -174,11 +289,30 @@ Example:
   "Motivation, work experience, and teacher performance: A comparative study."
   Acta psychologica 245 (2024): 104217.
 
+- `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop.
+  Onderwijskunde: een kennisbasis voor professionals.
+  Wolters-Noordhoff, 1995.
+
+- `[Mansfield and Gu, 2019]` Mansfield, Caroline, and Qing Gu.
+  "“I’m finally getting that help that I needed”:
+  Early career teacher induction and professional learning".
+  The Australian Educational Researcher 46.4 (2019): 639-659.
+
+- `[Moula, 2021]` Moula, Zoe. "Academic perceptions of barriers and facilitators of creative pedagogies in higher education: A cross-cultural study between the UK and China." Thinking skills and creativity 41 (2021): 100923.
+
 - `[Nilson and Goodson, 2021]` Nilson, Linda B., and Ludwika A. Goodson. Online teaching at its best: Merging instructional design with teaching and learning research. John Wiley & Sons, 2021.
 
 - `[Svinicki, 2014]` Svinicki, M. "McKeachie’s Teaching tips: Strategies, research, and theory for college and." Wadsworth, Cengage Learning (2014).
 
+- `[Uttl et al., 2017]`
+  Uttl, Bob, Carmela A. White, and Daniela Wong Gonzalez.
+  "Meta-analysis of faculty's teaching effectiveness:
+  Student evaluation of teaching ratings and student learning are not related."
+  Studies in Educational Evaluation 54 (2017): 22-42.
+
 - `[Wilson and Korn, 2007]` Wilson, Karen, and James H. Korn.
   "Attention during lectures: Beyond ten minutes."
   Teaching of Psychology 34.2 (2007): 85-89.
+
+
 
