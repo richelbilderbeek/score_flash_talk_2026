@@ -59,62 +59,24 @@ I like lectures                  |Valid. Learners like attending lecture, but it
 Passive learning is better       |No. Learners do *feel* that passive learning better, but it is not `[Deslauriers et al., 2019]`
 I have good evaluation results   |Irrelevant: most (any?) evaluation questions do not correlate with course quality `[Clayson, 2009][Uttl et al., 2017]`
 
-### Tip
+### How to act on this
 
-Tip: visit the SciLifeLab Teaching Literature Club.
+Visit the SciLifeLab Teaching Literature Club.
 
-## Tip 2: consider being open on what you are
+## Tip 2: consider being open on what we are
 
-### Most of us are in survival mode
+Idea                                               |Literature
+---------------------------------------------------|---------------------------------------------
+We are confident teachers                          |No. Most of us are in survival mode `[Admiraal et al., 2023]`
+We do not want to talk about our teaching          |No. Most of us desire informal dialogue with colleagues `[Mansfield and Gu, 2019]`
+We do not need a mentor                            |No. Mentorship helps to keep novices `[Crassous et al., 2024]`
+We should be perfect                               |No. All of us should make mistakes `[Moula, 2021]`
 
-Most of us are novices in teaching (i.e. less than 2 years of full-time
-teaching) and will typically focus on survival
-in the initial stage of teaching
-(many studies, among many other `[Admiraal et al., 2023]`).
+### How to act on this
 
-### Most of us desire informal dialogue with colleagues
-
-Novice teachers have the biggest need for 'informal dialogue with colleagues
-and participation in an in-class coaching programme' `[Mansfield and Gu, 2019]`.
-
-![`[Mansfield and Gu, 2019]` figure 1: what novice teachers desire most. Survey 2 is a follow-up to the same teachers sent again later](mansfield_and_gu_2019_fig_1.png)
-
-### Mentorship helps to keep novices
-
-We know that mentorship helps to keep teachers:
-with mentorship 17.8% drop out,
-without mentorship this is 44.9%,
-in a period of 5 months `[Crassous et al., 2024]`.
-
-### Experiences teachers keep making mistakes
-
-Experienced teachers may feel that they suffer reputational damage
-by trying out new things, as some of these experiments
-inevitably fail, even though there is a global urge for
-innovation in education `[Moula, 2021]`.
-
-
-
-### Tip
-
-Tip: the SciLifeLab training hub or other experienced teachers can help here,
+The SciLifeLab training hub or other experienced teachers can help here,
 but there is no formally organized mentorship program,
 nor (formally organized) informal teacher discussions.
-
-<!--
-
-- you are not perfect, you are only responsible for trying your best
-- If you don't care about feedback (yet),
-  do not bother the learners by asking for it
-- consider sharing your definition of good teaching:
-  It gives others a perspective:
-  If you think good teaching is 'providing a lot of information',
-  then others can understand why you lecture for more than one hour.
-  If you think good teaching is 'conveying knowledge and monitoring how
-  well this succeeds', then others will help remind you to not
-  lecture for more than one hour.
-
--->
 
 ## Tip 3: consider growing as a teacher
 
@@ -344,3 +306,37 @@ lower ratings; 'Gender biases can be large enough to cause
 more effective instructors to get lower SET than less effective instructors'.
 Upon a closer look, only 1% of all variation was explained
 by gender.
+
+### Why 'We are confident teachers' is false
+
+Most of us are novices in teaching (i.e. less than 2 years of full-time
+teaching) and will typically focus on survival
+in the initial stage of teaching
+(many studies, among many other `[Admiraal et al., 2023]`).
+
+### Why 'We do not need to talk about our teaching' is false
+
+Most of us desire informal dialogue with colleagues.
+
+Novice teachers have the biggest need for 'informal dialogue with colleagues
+and participation in an in-class coaching programme' `[Mansfield and Gu, 2019]`.
+
+![`[Mansfield and Gu, 2019]` figure 1: what novice teachers desire most. Survey 2 is a follow-up to the same teachers sent again later](mansfield_and_gu_2019_fig_1.png)
+
+### Why 'We do not need a mentor' is false
+
+Mentorship helps to keep novices
+
+We know that mentorship helps to keep teachers:
+with mentorship 17.8% drop out,
+without mentorship this is 44.9%,
+in a period of 5 months `[Crassous et al., 2024]`.
+
+### Why 'We should be perfect' is false
+
+Experienced teachers keep making mistakes.
+
+Experienced teachers may feel that they suffer reputational damage
+by trying out new things, as some of these experiments
+inevitably fail, even though there is a global urge for
+innovation in education `[Moula, 2021]`.
