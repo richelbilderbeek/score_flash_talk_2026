@@ -1,0 +1,20 @@
+---
+title: "NBIS Flash Talk"
+author: "Richèl Bilderbeek"
+format: revealjs
+editor: visual
+from: markdown+emoji
+csl: vancouver.csl
+css: styles.css
+slide-number: true
+number-sections: true
+number-offset: -0
+---
+
+# SCoRe Flash Talk
+
+[https://github.com/richelbilderbeek/](https://github.com/richelbilderbeek/score_flash_talk_2026)
+[score_flash_talk_2026](https://github.com/richelbilderbeek/score_flash_talk_2026)
+
+![CC-BY-SA](CC-BY-SA_25.png) Richèl 'Rea-shell' Bilderbeek [![DOI](https://zenodo.org/badge/1253770526.svg)](https://doi.org/10.5281/zenodo.21870485)
+
