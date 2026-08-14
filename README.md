@@ -169,7 +169,8 @@ but there is no peer observation club anymore.
 - `[Loughlin and Lindberg-Sand, 2022]`
   Loughlin, Colin and Lindberg-Sand, Åsa. (2022).
   The use of lectures: effective pedagogy or seeds scattered on the wind?.
-  Higher Education. 85. 10.1007/s10734-022-00833-9. 
+  Higher Education. 85.
+  [10.1007/s10734-022-00833-9](https://doi.org/10.1007/s10734-022-00833-9)
 
 - `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop.
   Onderwijskunde: een kennisbasis voor professionals.
