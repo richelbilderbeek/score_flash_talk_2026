@@ -78,42 +78,36 @@ The SciLifeLab training hub or other experienced teachers can help here,
 but there is no formally organized mentorship program,
 nor (formally organized) informal teacher discussions.
 
-## Tip 3: consider growing as a teacher
+## Tip 3: consider growing efficiently
 
-### I think you want to grow
+Idea                                           |Literature
+-----------------------------------------------|---------------------------------------------
+I learn by striving for good evaluation results|Misguided: most (any?) evaluation questions do not correlate with course quality `[Clayson, 2009][Uttl et al., 2017]`
+I learn by attending workshops/courses/seminars|These are inferior to other approaches `[Steinert et al., 2016]`
+I learn by writing reflections                 |One of the best two ways to do so `[Lowyck and Verloop, 1995]`
+I learn by doing peer observations             |One of the best two ways to do so `[Lowyck and Verloop, 1995]`
 
-I think that teaching is a complex activity
-and takes some growth beyond the initial survival
-to see this.
+### What is meant by 'writing reflections'?
 
-### The most important ways to grow
+Reflection is that you write down your thoughts on how a lesson went.
 
-The two most important ways to grow as a teacher
-are reflection and peer observations `[Lowyck and Verloop, 1995]`.
-
-### Reflection
-
-Reflection is that you write down your thoughts on how a lesson
-went. If you want to see how that may look,
+If you want to see how that may look,
 [all of my reflections are public](https://richelbilderbeek.github.io/teaching/teaching_overview/).
 
-### Peer observation
+### What is meant by 'peer observation'?
 
 Peer observations is the observation and discussion of lessons
-with a colleague **as equals**. To make this work well for you,
-choose the observer carefully, as he/she must be able to
-resist the urge to compare with his/her
-own teaching style `[Siddiqui et al., 2007]`.
+with a colleague **as equals** `[Siddiqui et al., 2007]`.
 
-Observing a colleague is one of the most desired
-activity of novice teachers `[Mansfield and Gu, 2019]`.
-
-Note: everyone is always welcome to observe my lessons (although some
+Everyone is always welcome to observe my lessons (although some
 may be quite dull to observe).
 
-### Tip
+If you want to see how that may look,
+[all of my peer observations are public](https://richelbilderbeek.github.io/teaching/peer_observations/).
 
-Tip: the SciLifeLab training hub or other experienced teachers can help here,
+### How to act on this
+
+The SciLifeLab training hub or other experienced teachers can help here,
 but there is no peer observation club anymore.
 
 ## References
@@ -145,7 +139,6 @@ but there is no peer observation club anymore.
   to being actively engaged in the classroom,
   Proc. Natl. Acad. Sci. U.S.A. 116 (39) 19251-19257,
   https://doi.org/10.1073/pnas.1821936116 (2019).
-
 
 - `[Fuller and Bown, 1975]` Fuller, Frances F., and Oliver H. Bown.
   "Becoming a teacher." Teachers College Record 76.6 (1975): 25-52.
@@ -184,6 +177,11 @@ but there is no peer observation club anymore.
 - `[Moula, 2021]` Moula, Zoe. "Academic perceptions of barriers and facilitators of creative pedagogies in higher education: A cross-cultural study between the UK and China." Thinking skills and creativity 41 (2021): 100923.
 
 - `[Nilson and Goodson, 2021]` Nilson, Linda B., and Ludwika A. Goodson. Online teaching at its best: Merging instructional design with teaching and learning research. John Wiley & Sons, 2021.
+
+- `[Steinert et al., 2016]` Steinert, Yvonne, et al.
+  "A systematic review of faculty development initiatives designed to enhance
+  teaching effectiveness: A 10-year update:
+  BEME Guide No. 40." Medical teacher 38.8 (2016): 769-786.
 
 - `[Svinicki, 2014]` Svinicki, M. "McKeachie’s Teaching tips: Strategies, research, and theory for college and." Wadsworth, Cengage Learning (2014).
 
@@ -341,3 +339,34 @@ Experienced teachers may feel that they suffer reputational damage
 by trying out new things, as some of these experiments
 inevitably fail, even though there is a global urge for
 innovation in education `[Moula, 2021]`.
+
+### Why 'I learn by striving for good evaluation results' is misguided to grow as a teacher
+
+Most (any?) evaluation questions do not correlate with
+course quality `[Clayson, 2009][Uttl et al., 2017]`.
+
+### Why 'I learn by attending workshops/courses/seminars' is not the best way to grow as a teacher
+
+These are inferior to other approaches `[Steinert et al., 2016]`.
+
+### Why 'I learn by writing reflections' is a good way to grow as a teacher
+
+The two most important ways to grow as a teacher
+are reflection and peer observations `[Lowyck and Verloop, 1995]`.
+
+### Why 'I learn by writing reflections' is a good way to grow as a teacher
+
+The two most important ways to grow as a teacher
+are reflection and peer observations `[Lowyck and Verloop, 1995]`.
+
+### What is meant by 'peer observation'?
+
+Peer observations is the observation and discussion of lessons
+with a colleague **as equals**. To make this work well for you,
+choose the observer carefully, as he/she must be able to
+resist the urge to compare with his/her
+own teaching style `[Siddiqui et al., 2007]`.
+
+Observing a colleague is one of the most desired
+activity of novice teachers `[Mansfield and Gu, 2019]`.
+
