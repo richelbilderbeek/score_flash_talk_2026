@@ -28,17 +28,6 @@ with formal education at the MSc level.
 - Years of experience has no effect on teaching quality
   `[Gore et al., 2024, Graham et al., 2020]`.
 
-<!--
-
-There is limit evideonce that teaching quality *declines*
-for teachers with 4-5 years experience, when compared to the
-other two classes: 0-3 and 6+ years of experience
-`[Graham et al., 2020]`. 
-
-RJCB: I requested the data, I predict this effect is caused by binning
-
--->
-
 ## Why my answer *may* matter
 
 Intrinsic motivation is the main cause
@@ -54,64 +43,21 @@ demonstrates that I have that.
 
 We all have our ideas and instincts on good teaching.
 
-As an example, imagine a teacher that believes that
-a lecture/monologue of 60 minutes is what the learners need
-(he/she fondly remembers university lectures like that).
+As an example, imagine a teacher that believes that,
+for a one-hour teaching session,
+a lecture/monologue of 60 minutes is best.
 
-Our ideas may be wrong. 
+Our ideas may be naive or we may be misinformed. 
 
-### Why this idea is wrong
+### Ideas versus the literature
 
-In this case, the idea is definitely wrong:
-already any (?) textbook (that is not too weird) will tell you this.
-
-These textbooks may point you to a big meta-analyses that shows
-that lecturing has a **negative** impact on learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. -->.
-
-### How wrong this idea is
-
-To get a perspective how negative this is,
-here are some other inventions and their values,
-from [the Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/):
-
-ES   |Description
------|----------------------------------------
-1.29 |Teacher estimates of achievement
-1.2  |Jigsaw method
-0.82 |Classroom discussion
-0.7  |Feedback
-0.6  |Direct instruction
-0.55 |Cooperative vs. individualistic learning
-0.48 |Questioning
-0.37 |Worked examples
-0.29 |Homework
-0.22 |Clickers
-0.1  |Background music
-0.04 |Humor	
--0.05|Lack of sleep
--0.19|Students feeling disliked
--0.26|**Lecturing**
--0.36|Depression
-
-### Why this knowledge is ignored anyways
-
-This teacher may have the feeling that he/she knows better.
-
-This is a known dynamic: early-career (i.e. less than two years of
-full-time teaching) teachers struggle
-to combine theory and practice and
-focus more on survival `[Admiraal et al., 2023]`.
-
-### Why this knowledge is ignored anyways too
-
-This teacher may have the idea that he/she knows better,
-based on some positive evaluation results.
-
-It is known that most evaluation results do not correlate with course
-quality (e.g. for 'Course satisfaction', see `[Uttl et al., 2017]`
-and 'Rate the course', see `[Clayson, 2009]`).
-Based on the literature, it means that a negative evaluation result
-may not be as bad as you will feel.
+Idea                             |Literature
+---------------------------------|---------------------------------------------
+Lecturing is effective           |No, it **hinders** learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. -->.
+I know better than the literature|Common. Beginner teachers are known to struggle to combine theory and practice `[Admiraal et al., 2023]`
+I like lectures                  |Valid. Learners like attending lecture, but it is not the lecture that is helpful `[Loughlin and Lindberg-Sand, 2022]`
+Passive learning is better       |No. Learners do *feel* that passive learning better, but it is not `[Deslauriers et al., 2019]`
+I have good evaluation results   |Irrelevant: most (any?) evaluation questions do not correlate with course quality `[Clayson, 2009][Uttl et al., 2017]`
 
 ### Tip
 
@@ -146,6 +92,8 @@ Experienced teachers may feel that they suffer reputational damage
 by trying out new things, as some of these experiments
 inevitably fail, even though there is a global urge for
 innovation in education `[Moula, 2021]`.
+
+
 
 ### Tip
 
@@ -206,46 +154,6 @@ may be quite dull to observe).
 Tip: the SciLifeLab training hub or other experienced teachers can help here,
 but there is no peer observation club anymore.
 
-## Appendix
-
-### The literature  may be incorrect.
-
-- Fun fact: I learned that
-  'Humans can focus 20 minutes' is a commonly-held idea
-  for which there is no evidence. <!-- Instead, people stopped taking notes after 10-15 minutes, taking notes is unrelated to attention span. Also, another experiment shows that notes are made equally under a lesson. Other papers were invalid too. I believe the paper --> 
-  `[Wilson and Korn, 2007]`.
-  The 5-10 minutes reported by `[Svinicki, 2014]` indeed is based on
-  nothing solid.
-  Also, humans can focus six minutes in online classes
-  `[Nilson and Goodson, 2021]` has no reference to the literature
-
-<!--
-`[Nilson and Goodson, 2021]`
-- Students learn new material better and can remember it longer when they learn
-  it by engaging in an activity than when they passively watch or listen
-  to an instructor talk [8 references] (page 92, item 2)
-- [...] long lectures and presentations will fail because students stop
-  viewing and listening after about six minutes.
-  [...]
-  In online classes, such student inattention becomes explicitly visible
-  through electronic monitoring of activities and questions
-  from students about what has already been covered in a long presentation.
-  (page 69, part of 'Choosing online and offline content', 1st paragraph)
-
--->
-
-Example:
-
-![About `[Boring & Ottoboni, 2016]`](boring_and_ottoboni_2016.jpg)
-
-> In `[Boring & Ottoboni, 2016]` it was reported that females were
-> discriminated against, 
-> as they received significantly
-> lower ratings; 'Gender biases can be large enough to cause
-> more effective instructors to get lower SET than less effective instructors'.
-> Upon a closer look, only 1% of all variation was explained
-> by gender.
-
 ## References
 
 - `[Admiraal et al., 2023]` Admiraal, Wilfried et al.,
@@ -269,6 +177,13 @@ Example:
   Comprehensive Study."
   Global Synthesis in Education Journal 2.5 (2024): 60-77.
 
+- `[Deslauriers et al., 2019]`
+  L. Deslauriers, L.S. McCarty, K. Miller, K. Callaghan and G. Kestin,
+  Measuring actual learning versus feeling of learning in response
+  to being actively engaged in the classroom,
+  Proc. Natl. Acad. Sci. U.S.A. 116 (39) 19251-19257,
+  https://doi.org/10.1073/pnas.1821936116 (2019).
+
 
 - `[Fuller and Bown, 1975]` Fuller, Frances F., and Oliver H. Bown.
   "Becoming a teacher." Teachers College Record 76.6 (1975): 25-52.
@@ -288,6 +203,11 @@ Example:
 - `[Layek and Koodamara, 2024]` Layek, Debika, and Navin Kumar Koodamara.
   "Motivation, work experience, and teacher performance: A comparative study."
   Acta psychologica 245 (2024): 104217.
+
+- `[Loughlin and Lindberg-Sand, 2022]`
+  Loughlin, Colin and Lindberg-Sand, Åsa. (2022).
+  The use of lectures: effective pedagogy or seeds scattered on the wind?.
+  Higher Education. 85. 10.1007/s10734-022-00833-9. 
 
 - `[Lowyck and Verloop, 1995]` Lowyck, Joost, and Nico Verloop.
   Onderwijskunde: een kennisbasis voor professionals.
@@ -314,5 +234,113 @@ Example:
   "Attention during lectures: Beyond ten minutes."
   Teaching of Psychology 34.2 (2007): 85-89.
 
+## Appendix
 
+### Years of experience may have a negative effect on teaching quality midway
 
+Years of experience has no effect on teaching quality
+`[Gore et al., 2024, Graham et al., 2020]`.
+
+There is limit evidence that teaching quality *declines*
+for teachers with 4-5 years experience, when compared to the
+other two classes: 0-3 and 6+ years of experience
+`[Graham et al., 2020]`.
+
+I requested the data, I assure myself that this effect is not
+caused by binning.
+
+### Why 'Lecturing is effective' is wrong in general
+
+Any (?) evidence-based textbook will tell you
+that this type of lecturing is not effective.
+
+### Why 'Lecturing is effective' is wrong
+
+A big meta-analyses shows
+that lecturing has a **negative** impact on learning `[Hattie, 2023]` <!-- page 363, effect size is -0.26 with a robustness index of 4 out of 5 and is based on 3 meta analyses using 273 studies using 27,296 people, measuring for 614 effects with a standard error of 0.08. -->.
+
+To get a perspective how negative this is,
+here are some other inventions and their values,
+from [the Hattie Ranking](https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/):
+
+ES   |Description
+-----|----------------------------------------
+1.29 |Teacher estimates of achievement
+1.2  |Jigsaw method
+0.82 |Classroom discussion
+0.7  |Feedback
+0.6  |Direct instruction
+0.55 |Cooperative vs. individualistic learning
+0.48 |Questioning
+0.37 |Worked examples
+0.29 |Homework
+0.22 |Clickers
+0.1  |Background music
+0.04 |Humor	
+-0.05|Lack of sleep
+-0.19|Students feeling disliked
+-0.26|**Lecturing**
+-0.36|Depression
+
+### Why 'I know better than the literature' is common
+
+A teacher may have the feeling that he/she knows better.
+
+This is a known dynamic: early-career (i.e. less than two years of
+full-time teaching) teachers struggle
+to combine theory and practice and
+focus more on survival `[Admiraal et al., 2023]`.
+
+### How 'I like lectures' is valid
+
+Teachers may have fond memories of attending university lectures
+as a learner.
+
+Learners report to enjoy lectures and most help comes
+from the structure (i.e. planning when to learn what)
+it gives and the peer networks that form due to attendance.
+Hence, it is not the lecture *itself* that is helpful
+`[Loughlin and Lindberg-Sand, 2022]`. 
+
+### How 'Passive learning is better' is felt as such and is invalud
+
+Teachers may have fond memories of being a more efficient
+learner in passive teaching (or negative experiences in active teaching).
+
+This idea is well-known that students perceive this,
+yet the opposite is true `[Deslauriers et al., 2019]`.
+
+![`[Deslauriers et al., 2019]`, figure 1](deslauriers_et_al_2019_fig_1.jpg)
+
+### How 'I have good evaluation results' is irrelevant
+
+This teacher may have the idea that he/she knows better,
+based on some positive evaluation results.
+
+It is known that most evaluation results do not correlate with course
+quality (e.g. for 'Course satisfaction', see `[Uttl et al., 2017]`
+and 'Rate the course', see `[Clayson, 2009]`).
+Based on the literature, it means that a negative evaluation result
+may not be as bad as you will feel.
+
+### You ideas from the literature may be outdated
+
+'Humans can focus 20 minutes' is a commonly-held idea
+for which there is no evidence. <!-- Instead, people stopped taking notes after 10-15 minutes, taking notes is unrelated to attention span. Also, another experiment shows that notes are made equally under a lesson. Other papers were invalid too. I believe the paper --> 
+`[Wilson and Korn, 2007]`.
+The 5-10 minutes reported by `[Svinicki, 2014]` indeed is based on
+nothing solid.
+Also, humans can focus six minutes in online classes
+`[Nilson and Goodson, 2021]` has no reference to the literature.
+
+### The literature may present findings in unexpected ways
+
+![About `[Boring & Ottoboni, 2016]`](boring_and_ottoboni_2016.jpg)
+
+In `[Boring & Ottoboni, 2016]` it was reported that females were
+discriminated against, 
+as they received significantly
+lower ratings; 'Gender biases can be large enough to cause
+more effective instructors to get lower SET than less effective instructors'.
+Upon a closer look, only 1% of all variation was explained
+by gender.
