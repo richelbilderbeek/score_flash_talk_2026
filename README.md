@@ -4,6 +4,8 @@
 
 SCoRe flash talk
 
+- Duration: max 10 minutes
+
 ## Intro
 
 ## What caused this talk
